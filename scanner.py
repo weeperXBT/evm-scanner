@@ -24,9 +24,7 @@ def handle_new_block(block_hash):
     print("---------------- TX Details ----------------")
     print(block.transactions) 
 
-    
     # for tx in block.transactions:
-
     # if tx.to is None:
 
 
